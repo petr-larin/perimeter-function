@@ -4,7 +4,7 @@ The *Perimeter* app is a supplement to my candidate's thesis in math, whose topi
 
 ### Audience
 
-As such, the app is mostly intended for those interested in the surrounding theory. However, one particular feature will be understood by anyone: draw a polygon with a mouse (or import it from a file) and then press the Maximum button - this will show the **shortest** curve dividing the polygon into 2 parts **equal in area**.
+As such, the app is mostly intended for those interested in the surrounding theory. However, one particular feature will be understood by anyone: draw a polygon with a mouse (or import it from a file) and then press the Maximum button -- this will show the **shortest** curve dividing the polygon into 2 parts **equal in area**.
 
 ### Examples
 
